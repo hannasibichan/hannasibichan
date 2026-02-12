@@ -1,2 +1,2 @@
-[![Hanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannasibichan)](https://github.com/hannasibichan)
+[![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hannasibichan&show_icons=true&theme=dracula)](https://github.com/hannasibichan)
 
